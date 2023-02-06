@@ -1,0 +1,4 @@
+*.history
+.history/*
+ENtrega2/*
+*.class
